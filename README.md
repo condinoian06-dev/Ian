@@ -36,5 +36,5 @@ I enjoy transforming business processes into data-driven solutions through analy
 
 ## Connect with Me
 
-LinkedIn:
-Portfolio:
+LinkedIn: https://www.linkedin.com/in/ian-gabriel-condino-08b438246/
+Portfolio: https://condinoian.my.canva.site/iancondino-portfolio
